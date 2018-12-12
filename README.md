@@ -10,5 +10,7 @@ After choosing the list name,then user can add the items to the website and upda
 
 ![alt text](https://github.com/pasan04/Shopping-List-using-ASP.net-with-javascript-jquery-and-html/blob/master/list.PNG)
 
+This is an initial project of mine whcih is used to get familiar with the .net applications and also jquery.
+
 
 
