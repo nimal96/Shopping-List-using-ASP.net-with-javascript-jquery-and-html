@@ -5,5 +5,10 @@ This is the page which user can interact with the website. In here user should n
 ![alt text](https://github.com/pasan04/Shopping-List-using-ASP.net-with-javascript-jquery-and-html/blob/master/shoppingList.PNG)
 
 
+After choosing the list name,then user can add the items to the website and update and delete the items in the list also.
+
+
+![alt text](https://github.com/pasan04/Shopping-List-using-ASP.net-with-javascript-jquery-and-html/blob/master/list.PNG)
+
 
 
